@@ -67,6 +67,6 @@ The script will launch a Chrome browser instance, navigate through the pages, ex
 
 Upon successful execution, the script will generate:
 
-* **`tesla_report.xlsx`**: An Excel file containing all the extracted report metadata (Document Date, Contributor, Headline, etc.) in a tabular format, saved in the same directory as the notebook.
+* **`Financial_Analyst_report.xlsx`**: An Excel file containing all the extracted report metadata (Document Date, Contributor, Headline, etc.) in a tabular format, saved in the same directory as the notebook.
 * **PDF files**: Downloaded PDF documents saved into the `output/` directory, named uniquely (e.g., `202300.pdf`, `202301.pdf`).
 ````
